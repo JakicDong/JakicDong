@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=%F0%9F%91%8B+Hi%2C+I'm+Jakic!;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Jakic!;M.S.+%40+NEU+%C2%B7+%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%A1%95%E5%A3%AB%E5%9C%A8%E8%AF%BB;AI+Application+Engineer+%40+Ant+Group+(Intern);Ex-Backend+Dev+%40+Baidu+Health+(Intern);LLM+Apps+%C2%B7+RAG+%C2%B7+AI+Coding+%C2%B7+Java+Backend" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=70&lines=%F0%9F%91%8B%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Jakic%20%C2%B7%20%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%20AI%20%E5%BA%94%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%AE%9E%E4%B9%A0%E7%94%9F;Hi%2C%20I%27m%20Jakic%20%E2%80%94%20AI%20Application%20Engineering%20Intern%20%40%20Ant%20Group" alt="Typing SVG" />
   </a>
 </div>
 
