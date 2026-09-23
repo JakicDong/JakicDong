@@ -43,16 +43,7 @@
 ## 📊 GitHub Stats · 数据统计
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JakicDong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakicDong&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JakicDong&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JakicDong&theme=tokyo-night&hide_border=true&area=true" width="96%" />
+  <img src="https://raw.githubusercontent.com/JakicDong/JakicDong/main/metrics.svg" width="96%" />
 </div>
 
 ## 🐍 Contribution Snake · 贡献贪吃蛇
