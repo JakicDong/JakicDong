@@ -19,8 +19,8 @@
 ## 🧑‍💻 About Me · 关于我
 
 - 🎓 **东北大学（985）控制科学与工程 · 硕士（推免）** ｜ M.S. in Control Science & Engineering @ NEU
-- 🤖 <img src="https://raw.githubusercontent.com/JakicDong/JakicDong/main/assets/antgroup.png" height="26" /> **蚂蚁集团 · AI 应用工程实习生** ｜ AI Application Engineering Intern @ Ant Group
-- 💻 <img src="https://raw.githubusercontent.com/JakicDong/JakicDong/main/assets/baidu.svg" height="22" /> **百度 · 后端开发实习生** ｜ Backend Development Intern @ Baidu
+- 🤖 **蚂蚁集团 · AI 应用工程实习生** ｜ AI Application Engineering Intern @ Ant Group
+- 💻 **百度 · 后端开发实习生** ｜ Backend Development Intern @ Baidu
 - 🔭 关注 **LLM 应用、RAG、AI Coding 与 Java 后端** ｜ Into **LLM apps, RAG, AI Coding & Java backend**
 - 📝 在 **[Jakic's Blog](https://jakicdong.github.io/)** 记录学习与工程 ｜ Writing on **[Jakic's Blog](https://jakicdong.github.io/)**
 
