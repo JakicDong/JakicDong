@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:16324f,100:2c5364&height=210&section=header&text=Jakic%20Dong&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Backend%20%C2%B7%20AI%20Application%20Engineering&descAlignY=56&descSize=19" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:16324f,100:2c5364&height=210&section=header&text=Jakic%20Dong&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Backend%20%C2%B7%20AI%20Application%20Engineering%20%7C%20%E5%90%8E%E7%AB%AF%20%C2%B7%20AI%20%E5%BA%94%E7%94%A8%E5%B7%A5%E7%A8%8B&descAlignY=56&descSize=19" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=%F0%9F%91%8B+Hi%2C+I'm+Jakic!;M.S.+%40+NEU+%C2%B7+Control+Science+%26+Engineering;AI+Application+Engineer+%40+Ant+Group+(Intern);Ex-Backend+Dev+%40+Baidu+Health+(Intern);LLM+Apps+%C2%B7+RAG+%C2%B7+AI+Coding+%C2%B7+Java+Backend" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=%F0%9F%91%8B+Hi%2C+I'm+Jakic!;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Jakic!;M.S.+%40+NEU+%C2%B7+%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%A1%95%E5%A3%AB%E5%9C%A8%E8%AF%BB;AI+Application+Engineer+%40+Ant+Group+(Intern);Ex-Backend+Dev+%40+Baidu+Health+(Intern);LLM+Apps+%C2%B7+RAG+%C2%B7+AI+Coding+%C2%B7+Java+Backend" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,16 +16,20 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me · 关于我
 
-- 🎓 M.S. student in **Control Science & Engineering** @ **Northeastern University (NEU, 985)** — recommended admission (推免), First-Class Scholarship
-- 🤖 **AI Application Engineering Intern @ Ant Group** — LLM self-play adversarial training (GRPO) for content safety; built an unattended end-to-end automated training pipeline
-- 💻 **Ex-Backend Development Intern @ Baidu Health** — config-driven rule engine, LLM-based config review pipeline, recall-chain performance optimization
-- 🔭 Interested in **LLM applications, RAG, AI Coding agents, and Java backend engineering**
-- 📝 I write about learning & engineering on **[Jakic's Blog](https://jakicdong.github.io/)**
-- 🕯️ *踏上取经路，比抵达灵山更重要。*
+- 🎓 **东北大学（NEU，985）控制科学与工程** 硕士在读（推免），一等学业奖学金
+  M.S. student in **Control Science & Engineering @ Northeastern University (NEU, 985)** — recommended admission, First-Class Scholarship
+- 🤖 **蚂蚁集团 · AI 应用工程实习生**：内容安全场景 LLM 自博弈对抗训练（GRPO），搭建无人值守的端到端自动化训练流水线
+  **AI Application Engineering Intern @ Ant Group** — LLM self-play adversarial training (GRPO) for content safety; built an unattended end-to-end automated training pipeline
+- 💻 **前百度健康 · 后端开发实习生**：配置化规则引擎、基于 LLM 的配置审查流水线、召回链路性能优化
+  **Ex-Backend Development Intern @ Baidu Health** — config-driven rule engine, LLM-based config review pipeline, recall-chain performance optimization
+- 🔭 关注 **LLM 应用、RAG、AI Coding 与 Java 后端工程**
+  Interested in **LLM applications, RAG, AI Coding agents, and Java backend engineering**
+- 📝 在 **[Jakic's Blog](https://jakicdong.github.io/)** 记录学习与工程实践
+  I write about learning & engineering on **[Jakic's Blog](https://jakicdong.github.io/)**
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack · 技术栈
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -41,7 +45,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats · 数据统计
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JakicDong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -56,7 +60,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JakicDong&theme=tokyo-night&hide_border=true&area=true" width="96%" />
 </div>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake · 贡献贪吃蛇
 
 <div align="center">
   <picture>
@@ -66,12 +70,12 @@
   </picture>
 </div>
 
-## 📫 Find Me
+## 📫 Find Me · 联系我
 
 <div align="center">
-  <a href="https://jakicdong.github.io/"><img src="https://img.shields.io/badge/Blog-jakicdong.github.io-2c5364?style=for-the-badge&logo=hexo&logoColor=white" /></a>
+  <a href="https://jakicdong.github.io/"><img src="https://img.shields.io/badge/Blog_博客-jakicdong.github.io-2c5364?style=for-the-badge&logo=hexo&logoColor=white" /></a>
   <a href="https://github.com/JakicDong"><img src="https://img.shields.io/badge/GitHub-@JakicDong-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:2062966830@qq.com"><img src="https://img.shields.io/badge/Email-2062966830@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:2062966830@qq.com"><img src="https://img.shields.io/badge/Email_邮箱-2062966830@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <div align="center">
