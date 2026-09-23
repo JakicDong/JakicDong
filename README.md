@@ -41,23 +41,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/JakicDong/dataprocess_cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakicDong&repo=dataprocess_cli&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/JakicDong/TecHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakicDong&repo=TecHub&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/JakicDong/JakicDong.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakicDong&repo=JakicDong.github.io&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/JakicDong/Ksp-Krpc-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakicDong&repo=Ksp-Krpc-Project&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -88,6 +71,7 @@
 <div align="center">
   <a href="https://jakicdong.github.io/"><img src="https://img.shields.io/badge/Blog-jakicdong.github.io-2c5364?style=for-the-badge&logo=hexo&logoColor=white" /></a>
   <a href="https://github.com/JakicDong"><img src="https://img.shields.io/badge/GitHub-@JakicDong-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:2062966830@qq.com"><img src="https://img.shields.io/badge/Email-2062966830@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <div align="center">
