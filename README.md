@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=70&lines=%F0%9F%91%8B%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Jakic%20%C2%B7%20%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%20AI%20%E5%BA%94%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%AE%9E%E4%B9%A0%E7%94%9F;Hi%2C%20I%27m%20Jakic%20%E2%80%94%20AI%20Application%20Engineering%20Intern%20%40%20Ant%20Group" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=180&lines=%F0%9F%91%8B%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Jakic%EF%BC%81;Hi%2C%20I%27m%20Jakic!;%F0%9F%92%BB%20%E7%99%BE%E5%BA%A6%20%C2%B7%20%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F;Backend%20Development%20Intern%20%40%20Baidu;%F0%9F%A4%96%20%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%20%C2%B7%20AI%20%E5%BA%94%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%AE%9E%E4%B9%A0%E7%94%9F;AI%20Application%20Engineering%20Intern%20%40%20Ant%20Group" alt="Typing SVG" />
   </a>
 </div>
 

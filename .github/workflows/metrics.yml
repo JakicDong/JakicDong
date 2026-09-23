@@ -29,6 +29,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 6
+          plugin_languages_ignored: html, css, scss, less, cmake, makefile, dockerfile, shell, batchfile, tex
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
