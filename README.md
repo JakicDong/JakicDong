@@ -18,16 +18,11 @@
 
 ## 🧑‍💻 About Me · 关于我
 
-- 🎓 **东北大学（NEU，985）控制科学与工程** 硕士在读（推免），一等学业奖学金
-  M.S. student in **Control Science & Engineering @ Northeastern University (NEU, 985)** — recommended admission, First-Class Scholarship
-- 🤖 <img src="https://raw.githubusercontent.com/JakicDong/JakicDong/main/assets/antgroup.png" height="26" /> **AI 应用工程实习生**：内容安全场景 LLM 自博弈对抗训练（GRPO），搭建无人值守的端到端自动化训练流水线
-  **AI Application Engineering Intern @ Ant Group** — LLM self-play adversarial training (GRPO) for content safety; built an unattended end-to-end automated training pipeline
-- 💻 <img src="https://raw.githubusercontent.com/JakicDong/JakicDong/main/assets/baidu.svg" height="22" /> **前百度健康 · 后端开发实习生**
-  **Ex-Backend Development Intern @ Baidu Health**
-- 🔭 关注 **LLM 应用、RAG、AI Coding 与 Java 后端工程**
-  Interested in **LLM applications, RAG, AI Coding agents, and Java backend engineering**
-- 📝 在 **[Jakic's Blog](https://jakicdong.github.io/)** 记录学习与工程实践
-  I write about learning & engineering on **[Jakic's Blog](https://jakicdong.github.io/)**
+- 🎓 **东北大学（985）控制科学与工程 · 硕士（推免）** ｜ M.S. in Control Science & Engineering @ NEU
+- 🤖 <img src="https://raw.githubusercontent.com/JakicDong/JakicDong/main/assets/antgroup.png" height="26" /> **蚂蚁集团 · AI 应用工程实习生** ｜ AI Application Engineering Intern @ Ant Group
+- 💻 <img src="https://raw.githubusercontent.com/JakicDong/JakicDong/main/assets/baidu.svg" height="22" /> **百度 · 后端开发实习生** ｜ Backend Development Intern @ Baidu
+- 🔭 关注 **LLM 应用、RAG、AI Coding 与 Java 后端** ｜ Into **LLM apps, RAG, AI Coding & Java backend**
+- 📝 在 **[Jakic's Blog](https://jakicdong.github.io/)** 记录学习与工程 ｜ Writing on **[Jakic's Blog](https://jakicdong.github.io/)**
 
 ## 🛠️ Tech Stack · 技术栈
 
